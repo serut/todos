@@ -63,12 +63,14 @@ kadira:flow-router@2.12.1
 launch-screen@1.0.12
 less@2.6.4
 livedata@1.0.18
+lmieulet:meteor-coverage@0.8.1
 localstorage@1.0.11
 logging@1.0.14
 mdg:validated-method@1.1.0
 mdg:validation-error@0.5.1
 meteor@1.1.16
 meteor-base@1.0.4
+meteorhacks:picker@1.0.3
 meteorspark:util@0.2.0
 minifier-css@1.1.13
 minifier-js@1.1.13
@@ -88,6 +90,7 @@ percolate:velocityjs@1.1.0
 practicalmeteor:chai@2.1.0_1
 practicalmeteor:loglevel@1.2.0_2
 practicalmeteor:mocha@2.4.5_5
+practicalmeteor:mocha-console-runner@0.2.3
 practicalmeteor:mocha-core@1.0.1
 practicalmeteor:sinon@1.14.1_2
 promise@0.7.3

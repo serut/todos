@@ -23,7 +23,8 @@
     "eslint-plugin-jsx-a11y": "^1.5.3",
     "eslint-plugin-meteor": "^3.6.0",
     "eslint-plugin-react": "^5.2.2",
-    "shell-source": "^1.1.0"
+    "shell-source": "^1.1.0",
+    "spacejam": "https://github.com/serut/spacejam/tarball/rc4-without-local-url"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
